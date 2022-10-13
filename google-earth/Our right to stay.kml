@@ -1,0 +1,919 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Our right to stay.kml</name>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="inline0">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="inline1">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="inline">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder id="results">
+		<name>Our right to stay</name>
+		<Placemark>
+			<name>Anani</name>
+			<description>Demolition: Somewhere between 2017 and 2018</description>
+			<LookAt>
+				<gx:TimeStamp><when>2017-03-23</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-3.870696701008508</longitude>
+				<latitude>5.241852135949426</latitude>
+				<altitude>0</altitude>
+				<heading>0.001327723166618127</heading>
+				<tilt>0</tilt>
+				<range>519.6727580994182</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-3.870696701008508,5.241852135949425,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Baoulé, Aboboo</name>
+			<description>Demolition: March 30, 2016</description>
+			<LookAt>
+				<gx:TimeStamp><when>2020-01-05</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-3.992458600394433</longitude>
+				<latitude>5.415145074368825</latitude>
+				<altitude>0</altitude>
+				<heading>5.423207616053012e-06</heading>
+				<tilt>14.71773907351897</tilt>
+				<range>546.9830142626201</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-3.992497887908285,5.415225675009893,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mairie Samaké, Abobo</name>
+			<description>Demolition: July 3, 2020</description>
+			<LookAt>
+				<gx:TimeStamp><when>2020-01-05</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-4.016310890634957</longitude>
+				<latitude>5.42114397641674</latitude>
+				<altitude>0</altitude>
+				<heading>0.0001316432488525111</heading>
+				<tilt>0</tilt>
+				<range>271.9833798108518</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-4.01629497814683,5.421224942338931,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Boribana, Adjamé</name>
+			<description><![CDATA[Demolition: November 30, 2019
+
+<img style="max-width:500px;" src="file:///Users/isabelbonnet/Desktop/Foam/_P3A4410.jpg">]]></description>
+			<LookAt>
+				<longitude>-4.033662108793405</longitude>
+				<latitude>5.340523580228304</latitude>
+				<altitude>0</altitude>
+				<heading>0.0001397054833482514</heading>
+				<tilt>1.022241525452748</tilt>
+				<range>641.3620653295312</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-4.033662108793404,5.340523580228304,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Macaci, Adjamé</name>
+			<description>Demolition: November 1, 2017</description>
+			<LookAt>
+				<gx:TimeStamp><when>2017-12-25</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-4.0237485004715</longitude>
+				<latitude>5.377477319457086</latitude>
+				<altitude>0</altitude>
+				<heading>0.0001140079433280606</heading>
+				<tilt>0</tilt>
+				<range>367.4490749017979</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-4.0237485004715,5.377477319457086,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Habitat, Adjamé</name>
+			<description>Demolition: November 6, 2017</description>
+			<LookAt>
+				<gx:TimeStamp><when>2017-05-08</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-4.023164445584896</longitude>
+				<latitude>5.358424992342049</latitude>
+				<altitude>0</altitude>
+				<heading>-0.0001189175918308262</heading>
+				<tilt>0</tilt>
+				<range>294.0525230286495</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-4.023164445584896,5.358424992342049,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Unknown, Adjamé</name>
+			<description>Demolition: Somewhere between July and Dec. 2017</description>
+			<LookAt>
+				<gx:TimeStamp><when>2017-12-25</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-4.029508784125326</longitude>
+				<latitude>5.34562631874909</latitude>
+				<altitude>0</altitude>
+				<heading>-0.0004694972519589512</heading>
+				<tilt>20.74664206796035</tilt>
+				<range>181.7025743830155</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-4.029508784125326,5.34562631874909,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Unknown, Adjamé</name>
+			<description>Demolition: First half of 2015</description>
+			<LookAt>
+				<gx:TimeStamp><when>2015-01-09</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-4.03134988976488</longitude>
+				<latitude>5.369616150420458</latitude>
+				<altitude>0</altitude>
+				<heading>0.003571030484947846</heading>
+				<tilt>7.909395295152376</tilt>
+				<range>1625.277882175126</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-4.03134988976488,5.369616150420458,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Gobelet II, Attoban</name>
+			<description>Demolition: 2015</description>
+			<LookAt>
+				<gx:TimeStamp><when>2015-01-09</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-3.987376552009664</longitude>
+				<latitude>5.373674452885634</latitude>
+				<altitude>0</altitude>
+				<heading>0.0004152755425048323</heading>
+				<tilt>0</tilt>
+				<range>536.714033245525</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-3.987376552009664,5.373674452885635,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Gobelet, Attoban</name>
+			<description>Demolition: Somewhere between 2013 and 2014</description>
+			<LookAt>
+				<gx:TimeStamp><when>2013-12-24</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-3.990644708161857</longitude>
+				<latitude>5.380112747824162</latitude>
+				<altitude>0</altitude>
+				<heading>0.0003182143867681627</heading>
+				<tilt>0</tilt>
+				<range>234.5089723183281</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-3.990644708161857,5.380112747824162,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Saint-Jean market, Cocody</name>
+			<description>Demolition: January 21, 2018</description>
+			<LookAt>
+				<gx:TimeStamp><when>2017-05-08</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-4.00356062592365</longitude>
+				<latitude>5.336368747696641</latitude>
+				<altitude>0</altitude>
+				<heading>4.485452427161245e-05</heading>
+				<tilt>0</tilt>
+				<range>171.6670337408789</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-4.00356062592365,5.33636874769664,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Danga-Bel-Air, Cocody</name>
+			<description>Demolition: 2015
+
+Second destruction: 4/28/2015</description>
+			<LookAt>
+				<gx:TimeStamp><when>2015-04-27</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-4.009950511148834</longitude>
+				<latitude>5.342197729362177</latitude>
+				<altitude>0</altitude>
+				<heading>-4.611434318408475e-05</heading>
+				<tilt>0</tilt>
+				<range>338.5813885482759</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-4.009950511148834,5.342197729362177,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Danga, Cocody</name>
+			<description>Demolition: 2015
+
+First destruction 4/26/2015</description>
+			<LookAt>
+				<gx:TimeStamp><when>2015-04-27</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-4.0099065134131</longitude>
+				<latitude>5.340107827467613</latitude>
+				<altitude>0</altitude>
+				<heading>2.031643674756626e-05</heading>
+				<tilt>15.68041511202368</tilt>
+				<range>147.2324973707679</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-4.0099065134131,5.340107827467616,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Anono, Cocody</name>
+			<description>Demolition: March 04, 2017</description>
+			<LookAt>
+				<gx:TimeStamp><when>2017-03-23</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-3.970517042573884</longitude>
+				<latitude>5.343068902498906</latitude>
+				<altitude>0</altitude>
+				<heading>0.0003970662062853946</heading>
+				<tilt>0</tilt>
+				<range>166.790404897234</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-3.970517042573884,5.343068902498907,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Riviera CIAD, Cocody</name>
+			<description>Demolition: July 2, 2020</description>
+			<LookAt>
+				<gx:TimeStamp><when>2020-04-05</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-3.948636572726167</longitude>
+				<latitude>5.328236290634778</latitude>
+				<altitude>0</altitude>
+				<heading>-2.89712905876149e-05</heading>
+				<tilt>0</tilt>
+				<range>179.4476825463126</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-3.948636572726167,5.328236290634779,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Djé konan, Koumassi</name>
+			<description>Demolition: February 4, 2019</description>
+			<LookAt>
+				<gx:TimeStamp><when>2019-04-09</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-3.96840962234384</longitude>
+				<latitude>5.288642975337949</latitude>
+				<altitude>0</altitude>
+				<heading>0.0001271241134224506</heading>
+				<tilt>0</tilt>
+				<range>352.9280434502831</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-3.96840962234384,5.288642975337949,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Marché Koumassi</name>
+			<description><![CDATA[<img style="max-width:500px;" src="file:///Users/isabelbonnet/Desktop/Foam/Koumassi screenshot 1.png">
+
+© Isabel Bonnet / isabelbonnet.com]]></description>
+			<LookAt>
+				<longitude>-3.958218804723561</longitude>
+				<latitude>5.292784800699626</latitude>
+				<altitude>0</altitude>
+				<heading>-1.237116783308424e-06</heading>
+				<tilt>0</tilt>
+				<range>1009.391090966561</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-3.95821880472356,5.292784800699626,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Abattoir, Port Bouët</name>
+			<description><![CDATA[<img style="max-width:500px;" src="file:///Users/isabelbonnet/Desktop/Foam/© Isabel Bonnet-3.jpg">
+
+© Isabel Bonnet / isabelbonnet.com]]></description>
+			<LookAt>
+				<longitude>-3.969525948232559</longitude>
+				<latitude>5.264205269323</latitude>
+				<altitude>0</altitude>
+				<heading>0.0006151803388260004</heading>
+				<tilt>0</tilt>
+				<range>591.7804641347981</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-3.969525948232558,5.264205269323001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Abidjan-Grand Bassam</name>
+			<description><![CDATA[<img style="max-width:500px;" src="file:///Users/isabelbonnet/Desktop/Foam/_P3A4439.jpg">]]></description>
+			<styleUrl>#inline</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-3.929980595258703,5.244716193242594,0 -3.877907262830602,5.236281385997252,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Adjouffou, Port Bouet</name>
+			<description><![CDATA[<img style="max-width:500px;" src="file:///Users/isabelbonnet/Desktop/Foam/© Isabel Bonnet-25.jpg">
+
+© Isabel Bonnet / isabelbonnet.com]]></description>
+			<LookAt>
+				<longitude>-3.918650548893333</longitude>
+				<latitude>5.253887433393037</latitude>
+				<altitude>0</altitude>
+				<heading>0.00139498437221568</heading>
+				<tilt>0</tilt>
+				<range>1497.314779825113</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-3.918650548893333,5.253887433393036,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rasta Village, Port Bouet</name>
+			<description>Demolition: July 11, 2012</description>
+			<LookAt>
+				<gx:TimeStamp><when>2013-01-07</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-3.989378096982606</longitude>
+				<latitude>5.255421040977211</latitude>
+				<altitude>0</altitude>
+				<heading>1.46867327905552e-05</heading>
+				<tilt>14.30734832944791</tilt>
+				<range>397.9904852894814</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-3.989378096982606,5.255421040977214,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Aéro Canal, Port Bouet</name>
+			<description><![CDATA[Demolition: January 2020
+
+<img style="max-width:500px;" src="file:///Users/isabelbonnet/Desktop/Foam/© Isabel Bonnet-27.jpg">
+
+© Isabel Bonnet / isabelbonnet.com]]></description>
+			<LookAt>
+				<gx:TimeStamp><when>2020-04-05</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-3.925556642713537</longitude>
+				<latitude>5.274478479523584</latitude>
+				<altitude>0</altitude>
+				<heading>0.0007927443438858754</heading>
+				<tilt>0.03402238729600485</tilt>
+				<range>1004.876515141907</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-3.925556642713537,5.274478479523585,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sicobois, Yopougon</name>
+			<description>Demolition: June 28, 2018</description>
+			<LookAt>
+				<gx:TimeStamp><when>2019-04-21</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-4.023529374506437</longitude>
+				<latitude>5.399431784317161</latitude>
+				<altitude>0</altitude>
+				<heading>-5.273443655903372e-05</heading>
+				<tilt>3.415751436112029</tilt>
+				<range>3017.72740610257</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-4.023529374506437,5.399431784317161,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Unkown</name>
+			<description>Demolition: First half of 2014</description>
+			<LookAt>
+				<gx:TimeStamp><when>2014-03-10</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-4.011955935608039</longitude>
+				<latitude>5.348395710138846</latitude>
+				<altitude>0</altitude>
+				<heading>-3.729861233875482</heading>
+				<tilt>0</tilt>
+				<range>356.7692461130019</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-4.011955935608039,5.348395710138847,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Unknown</name>
+			<description>Demolition: First half of 2015</description>
+			<LookAt>
+				<gx:TimeStamp><when>2015-10-11</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-3.973478613130836</longitude>
+				<latitude>5.348937301818082</latitude>
+				<altitude>0</altitude>
+				<heading>4.252206814833545</heading>
+				<tilt>0</tilt>
+				<range>196.2997540078431</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-3.973478613130836,5.34893730181808,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SICOGI, Treichville</name>
+			<description>Demolition: 2015</description>
+			<LookAt>
+				<gx:TimeStamp><when>2015-10-11</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-4.011624520600382</longitude>
+				<latitude>5.308537977316658</latitude>
+				<altitude>0</altitude>
+				<heading>0.0003099739728290287</heading>
+				<tilt>0</tilt>
+				<range>311.4999787438467</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-4.011624520600382,5.308537977316659,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Unknown, Treichville</name>
+			<description>Demolition: 2017</description>
+			<LookAt>
+				<gx:TimeStamp><when>2017-05-08</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-4.00419321590187</longitude>
+				<latitude>5.283353146892534</latitude>
+				<altitude>0</altitude>
+				<heading>0.001047175980118561</heading>
+				<tilt>0</tilt>
+				<range>196.5433183581847</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-4.00419321590187,5.283353146892534,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Biafra, Treichville</name>
+			<description>Demolition: July 2019
+
+The 900 mechanics of Treichville occupying a site of more than three hectares located behind the 29th police district of Biafra were evicted.</description>
+			<LookAt>
+				<gx:TimeStamp><when>2018-01-19</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-4.00427242627623</longitude>
+				<latitude>5.311494781393067</latitude>
+				<altitude>0</altitude>
+				<heading>-0.0003112781987546678</heading>
+				<tilt>0</tilt>
+				<range>162.9774478842681</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-4.00427242627623,5.311494781393066,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Inch’Allah, Koumassi</name>
+			<description>Demolition: April 2019</description>
+			<LookAt>
+				<gx:TimeStamp><when>2020-01-05</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-3.955693120918121</longitude>
+				<latitude>5.300114271130657</latitude>
+				<altitude>0</altitude>
+				<heading>1.777971554630118e-05</heading>
+				<tilt>0</tilt>
+				<range>128.8982542548802</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-3.955693120918121,5.300114271130656,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Unknown, Yopougon</name>
+			<description>Demolition: Early 2016</description>
+			<LookAt>
+				<gx:TimeStamp><when>2016-04-12</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-4.074890633445375</longitude>
+				<latitude>5.349187503469961</latitude>
+				<altitude>0</altitude>
+				<heading>2.578892840512541e-05</heading>
+				<tilt>0</tilt>
+				<range>342.5034264008304</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-4.074890633445375,5.349187503469961,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Unknown, Koumassi</name>
+			<description>Demolition: Early 2011</description>
+			<LookAt>
+				<gx:TimeStamp><when>2010-01-28</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-3.976811764679665</longitude>
+				<latitude>5.302201839734376</latitude>
+				<altitude>0</altitude>
+				<heading>0.001343160966820776</heading>
+				<tilt>0</tilt>
+				<range>191.6391780570796</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-3.976811764679664,5.302201839734376,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Unknown, Attoban</name>
+			<description>Demolition: 2015</description>
+			<LookAt>
+				<gx:TimeStamp><when>2014-12-28</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-3.983135593622654</longitude>
+				<latitude>5.36527793222415</latitude>
+				<altitude>0</altitude>
+				<heading>-0.5248026434917797</heading>
+				<tilt>0</tilt>
+				<range>1584.810248707941</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-3.983135593622654,5.365277932224151,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Unknown, Koumassi</name>
+			<description>Demolition: Second half of 2016</description>
+			<LookAt>
+				<gx:TimeStamp><when>2017-03-23</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-3.977639345480403</longitude>
+				<latitude>5.311343951089252</latitude>
+				<altitude>0</altitude>
+				<heading>-0.5225397643105498</heading>
+				<tilt>0</tilt>
+				<range>221.122114329306</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-3.977639345480402,5.311343951089251,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Unknown</name>
+			<description>Demolition: Somewhere between 2013 and 2014</description>
+			<LookAt>
+				<gx:TimeStamp><when>2014-03-10</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-4.009168819374185</longitude>
+				<latitude>5.353662489935292</latitude>
+				<altitude>0</altitude>
+				<heading>-0.004168490932136686</heading>
+				<tilt>0</tilt>
+				<range>473.6796688189459</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-4.009168819374185,5.353662489935293,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
